@@ -5,7 +5,7 @@ const About = () => (
     <article className="mb-8">
       <h2 className="text-xl font-semibold mb-2">🚀 My Web Development Journey</h2>
       <p>
-        I started coding in [YEAR], and since then I've built everything from blogs to dashboards.
+        I started coding in [2021], and since then I've built everything from blogs to dashboards.
         My passion for solving real-world problems with clean and efficient code led me to become a fullstack developer.
       </p>
     </article>
@@ -16,13 +16,14 @@ const About = () => (
         <li><strong>GossipBuzz</strong> – entertainment news platform</li>
         <li><strong>HakimiSport</strong> – sports highlights & analytics</li>
         <li><strong>Sportyatch360</strong> – live score and match updates</li>
+        <li><strong>Click2Eanr</strong> – A reward-based ad-clicking platform with referral system and admin panel.</li>
       </ul>
     </article>
 
     <article className="mb-8">
       <h2 className="text-xl font-semibold mb-2">🧠 Currently Learning</h2>
       <p>
-        I'm improving my React/Next.js skills and exploring backend tools like Node.js and Express.
+        I'm improving my React/Next.js skills and exploring backend tools like Node.js and laravel.
       </p>
     </article>
 
