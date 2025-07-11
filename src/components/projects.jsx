@@ -1,4 +1,4 @@
-import click2earnImg from '../assets/click2earn_dashboard.jpg';
+import click2earnImg from '../assets/click2earn_user_dashboard.jpg';
 
 const projects = [
   {
