@@ -16,7 +16,7 @@ const About = () => (
         <li><strong>GossipBuzz</strong> – entertainment news platform</li>
         <li><strong>HakimiSport</strong> – sports highlights & analytics</li>
         <li><strong>Sportyatch360</strong> – live score and match updates</li>
-        <li><strong>Click2Eanr</strong> – A reward-based ad-clicking platform with referral system and admin panel.</li>
+        <li><strong>Click2Earn</strong> – A reward-based ad-clicking platform with referral system and admin panel.</li>
       </ul>
     </article>
 
