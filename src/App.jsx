@@ -3,7 +3,8 @@ import Navbar from './components/Navbar';
 import Hero from './components/Hero';
 import Skills from './components/Skills';
 import Projects from './components/projects'; // 👈 Import Projects
-import CarouselSection from "./components/CarouselSection";
+import Click2Earn from './pages/click2earn'; // Match the actual filename and export
+
 import Footer from './components/Footer';
 
 import About from './pages/about';
