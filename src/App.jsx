@@ -20,9 +20,10 @@ function App() {
             <Hero />
             <Skills />
             <Projects /> {/* 👈 Add Projects below Skills */}
-            <CarouselSection />
+
           </>
         } />
+        <Route path="/click2earn" element={<Click2Earn />} />
         <Route path="/about" element={<About />} />
         <Route path="/services" element={<Services />} />
         <Route path="/contact" element={<Contact />} />
