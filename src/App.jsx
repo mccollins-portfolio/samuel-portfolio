@@ -3,6 +3,7 @@ import Navbar from './components/Navbar';
 import Hero from './components/Hero';
 import Skills from './components/Skills';
 import Projects from './components/projects'; // 👈 Import Projects
+import CarouselSection from "./components/CarouselSection";
 import Footer from './components/Footer';
 
 import About from './pages/about';
@@ -19,6 +20,7 @@ function App() {
             <Hero />
             <Skills />
             <Projects /> {/* 👈 Add Projects below Skills */}
+            <CarouselSection />
           </>
         } />
         <Route path="/about" element={<About />} />
